@@ -70,18 +70,17 @@ Project Structure & Where to Save Code
         Upload an image
         5️⃣ Click Send
 
-- Step 4: Frontend - React for Image Upload & Display Prediction
+- Step 4: Frontend - Streamlit for Image Upload & Display Prediction
   We will:
-  ✅ Create a React UI for image upload
+  ✅ Create a Streamlit UI for image upload
   ✅ Send the image to the FastAPI backend
   ✅ Display the predicted age
-  ✅ Use Tailwind CSS for a better UI
   📂 Save this inside: frontend/ folder
 
   - run cd frontend
-  - run npm start
+  - run streamlit run app.py
 
-        ✅ Open your browser and go to http://localhost:3000/
+        ✅ Open your browser and go to http://localhost:8501/
         ✅ You should see a file upload button
         ✅ Select an image and click Upload & Predict
         ✅ The predicted age will be displayed below! 🎉
