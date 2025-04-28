@@ -1,7 +1,7 @@
 Project Structure & Where to Save Code
 📁 Age-Detection-Project (Root folder)
    📂 backend → Save Node.js API & Model files here
-   📂 frontend → Save React frontend here
+   📂 frontend → Save Streamlit frontend here
    📂 model → Save CNN model training files here (optional)
    📂 dataset → Save training dataset here (optional)
 
