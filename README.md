@@ -1,7 +1,7 @@
 Project Structure & Where to Save Code
 📁 Age-Detection-Project (Root folder)
    📂 backend → Save Node.js API & Model files here
-   📂 frontend → Save Streamlit frontend here
+   📂 frontend → Save Streamlit UI frontend here
    📂 model → Save CNN model training files here (optional)
    📂 dataset → Save training dataset here (optional)
 
@@ -70,7 +70,7 @@ Project Structure & Where to Save Code
         Upload an image
         5️⃣ Click Send
 
-- Step 4: Frontend - Streamlit for Image Upload & Display Prediction
+- Step 4: Frontend - Streamlit UI for Image Upload & Display Prediction
   We will:
   ✅ Create a Streamlit UI for image upload
   ✅ Send the image to the FastAPI backend
