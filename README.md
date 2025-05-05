@@ -1,3 +1,7 @@
+# Age Detection Using CNN
+
+A deep learning-based project to detect human age from images using a Convolutional Neural Network (CNN), deployed with FastAPI (backend) and Streamlit (frontend).
+
 Project Structure & Where to Save Code
 📁 Age-Detection-Project (Root folder)
    📂 backend → Save Node.js API & Model files here
